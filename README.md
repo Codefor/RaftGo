@@ -1,6 +1,13 @@
 RaftGo:Go demo of Raft Protocol
 
+###Overview
+DONE:
+Leader Election
 
+TODO:
+Log Replication
+
+======
 ###Build
 go build node.go
 
@@ -13,3 +20,4 @@ go build node.go
 
 ###Watch
 watch the stdout log
+
